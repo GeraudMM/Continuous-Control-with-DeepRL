@@ -3,7 +3,7 @@
 [image1]: https://user-images.githubusercontent.com/10624937/43851024-320ba930-9aff-11e8-8493-ee547c6af349.gif "Trained Agent"
 [image2]: https://user-images.githubusercontent.com/10624937/43851646-d899bf20-9b00-11e8-858c-29b5c2c94ccc.png "Crawler"
 
-# Continuous-Control-with-DeepRL
+# Continuous Control with Deep Reinforcement Learning
 
 For this project, we work with the [Reacher](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#reacher) environment. The goal is to implement a deep reinforcement learning algorithm that can deal with continuous action space.
 
